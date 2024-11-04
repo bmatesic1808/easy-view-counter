@@ -1,0 +1,56 @@
+.main-heading {
+    font-weight: 400;
+    padding: 9px 0 20px !important;
+}
+
+.views-table-custom td.date-pointer {
+    cursor: pointer !important;
+    color: #2271b1 !important;
+}
+
+.views-table-custom td.date-pointer:hover {
+    color: #164974 !important;
+}
+
+.widefat td {
+    font-size: 14px !important;
+}
+
+.custom-permalink {
+    margin-left: 5px;
+    color: #000;
+}
+
+.custom-permalink:hover {
+    color: #2271b1 !important;
+}
+
+.custom-list {
+    list-style-type: none; 
+    padding: 0;
+}
+
+.custom-list-item {
+    padding: 2px; 
+}
+
+.custom-icon {
+    height: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.custom-icon-chevron {
+    height: 10px;
+    margin-right: 5px;
+}
+
+.single-post-heading-custom {
+    font-size: 18px !important;
+    padding: 10px 0 !important;
+    margin-top: 20px !important;
+}
+
+.font-semibold {
+    font-weight: 600;
+}
